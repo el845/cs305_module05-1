@@ -1,5 +1,7 @@
 ## cs305_module05
 This is the project for CS305. Our project is the self-driving car model. 
+The car is able to avoid obstacles automatically. We will use the knowledge of Artificial Intelligence to design the route.
+![Class Diagram of our system](Raspberry_Pi.jpeg)
 
 ## Technologies
 * Python
