@@ -15,3 +15,7 @@ The car is able to avoid obstacles automatically. We will use the knowledge of A
 
 ## Project Picture
 ![Class Diagram of our system](Raspberry_Pi.JPG)
+
+## Embedded Language addition
+
+This is my addition to the README file - el845
