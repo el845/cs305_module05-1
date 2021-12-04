@@ -13,6 +13,8 @@ The car is able to avoid obstacles automatically. We will use the knowledge of A
 * [Lauren Farr](https://github.com/lkf57)
 * [Eleanor Lemish](https://github.com/el845)
 
+This is my addition to the README. - Lauren Farr, lkf57
+
 ## Project Picture
 ![Class Diagram of our system](Raspberry_Pi.JPG)
 
